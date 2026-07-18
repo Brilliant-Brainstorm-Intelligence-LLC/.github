@@ -1,0 +1,17 @@
+﻿name: Public Metadata Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 15 * * 1'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    uses: Brilliant-Brainstorm-Intelligence-LLC/bbi-reusable-workflows/.github/workflows/public-metadata-sync.yml@main
+    with:
+      surface: organization-profile
+      readme_path: profile/README.md
