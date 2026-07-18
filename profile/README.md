@@ -33,17 +33,23 @@ Our public repositories provide reusable tools, sanitized patterns, and technica
 
 ## Featured work
 
-### BBI AI Readiness Diagnostic Kit
+### BBI AI Readiness Diagnostic Kit — Released
 
-An evidence-first toolkit for evaluating AI business value, data readiness, human oversight, governance, delivery readiness, and evidence quality before implementation.
+**Problem:** AI programs often start with a model or vendor before readiness is inspectable.  
+**Benefit:** Deterministic scoring across business value, data, human oversight, governance, delivery, and evidence quality — with critical-floor checks and Markdown reports.  
+**Evidence:** [Repository](https://github.com/Brilliant-Brainstorm-Intelligence-LLC/bbi-ai-readiness-diagnostic-kit) · [v0.1.0](https://github.com/Brilliant-Brainstorm-Intelligence-LLC/bbi-ai-readiness-diagnostic-kit/releases/tag/v0.1.0)
 
-### Governed Agent Execution Patterns
+### Governed Agent Execution Patterns — Planned
 
-A forthcoming public reference for authorization, tool permissions, evidence boundaries, execution receipts, escalation, and verification.
+**Problem:** Agent demos omit authorization, evidence, verification, and escalation.  
+**Benefit:** Public reference patterns for human authority in agent execution.  
+**Status:** Forthcoming — not yet released.
 
-### ERP Transformation Casebook
+### ERP Transformation Casebook — Planned
 
-A forthcoming sanitized collection of warehouse, costing, data-quality, architecture, and adoption patterns.
+**Problem:** ERP lessons stay trapped in private implementations.  
+**Benefit:** Sanitized warehouse, costing, data-quality, architecture, and adoption patterns.  
+**Status:** Forthcoming — sanitized release only.
 
 ## Contributing
 
