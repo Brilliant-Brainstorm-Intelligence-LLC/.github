@@ -90,7 +90,6 @@ Machine-synced from the public-proof registry. Featured-work narrative above rem
 - [Technical Portfolio](https://tmgilliam.github.io)
 
 <!-- BBI-PUBLIC-AUTO:END -->
-
 ## Contributing
 
 We welcome focused issues, documentation improvements, tests, technical feedback, and bounded feature proposals.
